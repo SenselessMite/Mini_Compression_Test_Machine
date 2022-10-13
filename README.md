@@ -1,5 +1,8 @@
 # Mini_Compression_Test_Machine
-Implementation of a Compression test machine made using Teensy 3.1
+Implementation of a Compression test machine based on Teensy 3.1.
+The machine is a University project. It is a prototype of a simple and affordable Traction-Compression
+machine made using Open HW and Open Sw, so everyone can make their own.
+
 
 To assemble it you need the following parts:
 
